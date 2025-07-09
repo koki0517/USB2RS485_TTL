@@ -2587,7 +2587,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2297"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5700,6 +5700,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C7467"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5347ae07-44c0-4508-a2aa-f6eff56b58d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT* SG-*")
 		(path "/0078bbc5-50ac-4151-9a88-d7aa2a2fef0c")
 		(sheetname "ルート")
@@ -7781,6 +7793,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0ffa4c7c-2955-4d18-999a-3c2269a2fbc2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C393939"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ae5f6e1f-9b82-44fa-99fc-15c7e1bdb7d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11940,7 +11964,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12544,6 +12568,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc50c75a-db1b-4792-8037-ae09d0b777d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C99652"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "892693eb-0066-41b4-929a-dc235305038f")
 			(effects
 				(font
 					(size 1.27 1.27)
