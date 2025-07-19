@@ -5300,16 +5300,6 @@
 		)
 		(uuid "28d3a7b7-f744-48de-91fe-ae25603d4c9d")
 	)
-	(label "D-"
-		(at 60.96 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4bd617b4-f367-4278-a355-121dcb724679")
-	)
 	(label "DATA"
 		(at 143.51 152.4 180)
 		(effects
@@ -5461,6 +5451,16 @@
 		(uuid "abe033dd-c955-4211-947f-4a6e233f9738")
 	)
 	(label "D-"
+		(at 60.96 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "accdb520-0bf1-4a6c-90d3-6ef4fdb86c79")
+	)
+	(label "D-"
 		(at 33.02 124.46 180)
 		(effects
 			(font
@@ -5479,16 +5479,6 @@
 			(justify left bottom)
 		)
 		(uuid "be1214ce-34e3-4591-8bba-351924b544f3")
-	)
-	(label "D+"
-		(at 60.96 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d7c09813-444b-4b89-b8da-9fe7162bab5d")
 	)
 	(label "DATA-"
 		(at 214.63 153.67 180)
@@ -5539,6 +5529,16 @@
 			(justify right bottom)
 		)
 		(uuid "e235771f-0a5e-4809-82a3-6db90531074d")
+	)
+	(label "D+"
+		(at 60.96 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6486706-3e96-4b2d-b224-42252417ad76")
 	)
 	(label "DATA+"
 		(at 248.92 151.13 180)
